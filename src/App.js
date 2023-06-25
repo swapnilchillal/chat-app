@@ -1,6 +1,6 @@
 import React from 'react';
 import 'rsuite/dist/styles/rsuite-default.css';
-import { Switch, Route } from 'react-router';
+import { Switch } from 'react-router';
 import Signin from './pages/Signin';
 import PrivateRoute from './components/PrivateRoute';
 import Home from './pages/Home';

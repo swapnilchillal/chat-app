@@ -7,7 +7,7 @@ function Sidebar() {
       <div>
         <DashboardToggle />
       </div>
-      bottom
+      
     </div>
   )
 }

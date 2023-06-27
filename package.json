@@ -8,7 +8,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "5.0.1",
-    "rsuite": "^4.10.2",
+    "rsuite": "^4.11.1",
     "sass": "^1.57.1"
   },
   "scripts": {
